@@ -10,16 +10,9 @@ export default function Home() {
 			<main>
 				<Container>
 					<NameSection>
-						<p>This is the Very Good Site of</p>
+						<p>This is the Very Good Documentationf</p>
 						<Name>Raphael</Name>
 						<h2>Nerd - Software Engineer - CS Student - Gamer</h2>
-						<h5>
-							This was heavily inspired by{" "}
-							<a href="https://github.com/LuciferUchiha/georgerowlands.ch">
-								George Rowlands
-							</a>
-							, but thats how programming works :)
-						</h5>
 					</NameSection>
 				</Container>
 			</main>
