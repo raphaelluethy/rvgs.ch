@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrvgs_ch=self.webpackChunkrvgs_ch||[]).push([[121],{8070:function(s){s.exports=JSON.parse('[{"name":"Documentation","permalink":"/docs/tags/documentation","count":2},{"name":"Docusaurus","permalink":"/docs/tags/docusaurus","count":2}]')}}]);

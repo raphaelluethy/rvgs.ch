@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrvgs_ch=self.webpackChunkrvgs_ch||[]).push([[785],{5566:function(e,t,n){n.r(t);var c=n(7294),r=n(2600);t.default=function(){return c.createElement(r.Z,{title:"Projects",description:"Description will go into a meta tag in <head />"},c.createElement("main",null,c.createElement("h1",null,"Projects")))}}}]);
