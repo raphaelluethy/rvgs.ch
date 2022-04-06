@@ -18,7 +18,7 @@ const mySocials = [
 	},
 	{
 		label: "Links",
-		href: "https://links.rvgs.ch",
+		href: "https://rvgs.ch",
 	},
 ];
 
