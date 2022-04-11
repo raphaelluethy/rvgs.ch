@@ -119,7 +119,9 @@ const config = {
 						],
 					},
 				],
-				copyright: `Last updated on ${new Date().toUTCString()}`,
+				copyright: `Last updated on ${new Date().toLocaleDateString(
+					"de"
+				)}`,
 			},
 			prism: {
 				theme: lightCodeTheme,
