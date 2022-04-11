@@ -120,7 +120,15 @@ const config = {
 					},
 				],
 				copyright: `Last updated on ${new Date().toLocaleDateString(
-					"de"
+					"de-DE",
+					{
+						year: "numeric",
+						month: "numeric",
+						day: "numeric",
+						hour: "numeric",
+						minute: "numeric",
+						hour12: false,
+					}
 				)}`,
 			},
 			prism: {
