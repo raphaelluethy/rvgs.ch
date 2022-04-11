@@ -30,7 +30,7 @@ const config = {
 	baseUrl: "/",
 	onBrokenLinks: "throw",
 	onBrokenMarkdownLinks: "warn",
-	favicon: "img/logo.png",
+	favicon: "img/logo_rl_white.png",
 	organizationName: "raphaelluethy", // Usually your GitHub org/user name.
 	projectName: "rvgs.ch", // Usually your repo name.
 
