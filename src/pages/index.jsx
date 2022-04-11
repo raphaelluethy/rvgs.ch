@@ -10,9 +10,12 @@ export default function Home() {
 			<main>
 				<Container>
 					<NameSection>
-						<p>This is the Very Good Documentationf</p>
-						<Name>Raphael</Name>
-						<h2>Nerd - Software Engineer - CS Student - Gamer</h2>
+						<p>This is the Very Good Documentation Site</p>
+						<Name>Raphael Lüthy</Name>
+						<h2>
+							Nerd - Software Engineer - Computer Science Student
+							- Gamer
+						</h2>
 					</NameSection>
 				</Container>
 			</main>
