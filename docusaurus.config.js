@@ -80,7 +80,7 @@ const config = {
 				disableSwitch: false,
 			},
 			navbar: {
-				title: "RVGS",
+				title: "",
 				logo: {
 					alt: "Raphael Lüthy Logo",
 					src: "img/logo_rvgs_black.png",
