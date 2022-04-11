@@ -83,8 +83,8 @@ const config = {
 				title: "RVGS",
 				logo: {
 					alt: "Raphael Lüthy Logo",
-					src: "img/logo.png",
-					srcDark: "img/logo.png",
+					src: "img/logo_rvgs_black.png",
+					srcDark: "img/logo_rvgs_white.png",
 				},
 				items: [
 					{
